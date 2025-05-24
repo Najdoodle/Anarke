@@ -1,2 +1,2 @@
 # Anarke
-A websire for anarke
+A website for anarke
